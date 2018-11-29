@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Property Management System",
+    'name': "Testing Property Management System",
 
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
